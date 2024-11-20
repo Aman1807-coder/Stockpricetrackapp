@@ -1,3 +1,5 @@
+![2024-11-20 (1)](https://github.com/user-attachments/assets/a9ab7fd7-71f2-43dc-92ba-d7096a3eb441)![2024-11-20 (3)](https://github.com/user-attachments/assets/5f3ea6e1-53ae-43e3-9146-c2e6f5a0cd73)
+
 Stock Price Fetcher
 
 A simple web application that fetches and displays stock prices using a Python backend (FastAPI) and a React frontend (Next.js). 
